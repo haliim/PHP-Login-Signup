@@ -5,7 +5,7 @@ Students:
   Ahmed Hisham Abdelsalam Ahmed.Hisham.1993@gmail.com
 
 ## Deploying
-$ git clone https://github.com/haliim/cybersecurity-capstone-project # or clone your own fork
+$ git clone https://github.com/haliim/PHP-Login-Signup # or clone your own fork
 $ heroku create
 $ git push heroku master
 $ heroku open
